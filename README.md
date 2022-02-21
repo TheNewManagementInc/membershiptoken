@@ -1,4 +1,5 @@
-# Membership Verification Token
+# FooDToken Contract using open zeppeling.
+
 
 <!-- <img align="center" src="./img/colonyNetwork_color.svg" /> -->
 
@@ -93,14 +94,4 @@ npm run test
 truffle test
 ```
 
-## Security
 
-Membership Verification Token is meant to provide secure, tested and community-audited code, but please use common sense when doing anything that deals with real money! We take no responsibility for your implementation decisions and any security problem you might experience.
-
-The core development principles and strategies that Membership Verification Token is based on include: security in depth, simple and modular code, clarity-driven naming conventions, comprehensive unit testing, pre-and-post-condition sanity checks, code consistency, and regular audits.
-
-If you find a security issue, please email [chaitanya.potti@gmail.com](mailto:chaitanya.potti@gmail.com).
-
-## Contributing
-
-For details about how to contribute you can check the [contributing page](CONTRIBUTING.md)
