@@ -1,4 +1,4 @@
-pragma solidity ^0.4.25;
+pragma solidity ^0.8.2;
 
 /// @title ERC-1261 MVT Standard
 /// @dev See https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1261.md
