@@ -1,6 +1,6 @@
 pragma solidity ^0.4.25;
 
-import "./MembershipVerificationToken.sol";
+import "https://github.com/TheNewManagementInc/membershiptoken/edit/main/contracts//MembershipVerificationToken.sol";
 import "./Protocol/IERC1261.sol";
 
 contract ERC1261MetaData is MembershipVerificationToken, IERC1261Metadata {
